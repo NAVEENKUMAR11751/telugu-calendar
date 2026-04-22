@@ -1,0 +1,278 @@
+{
+  "2026-01-01": {
+    "events": [{ "title": "New Year's Day", "category": "Public Holiday", "icon": "🎊" }],
+    "tithi": "Dvitiya", "nakshatra": "Rohini", "yoga": "Siddha", "paksha": "Krishna",
+    "sunrise": "7:10 AM", "sunset": "5:52 PM", "teluguMonth": "పుష్యమి"
+  },
+  "2026-01-06": {
+    "events": [{ "title": "Ekadashi", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Anuradha", "yoga": "Vriddhi", "paksha": "Krishna",
+    "sunrise": "7:10 AM", "sunset": "5:55 PM", "teluguMonth": "పుష్యమి"
+  },
+  "2026-01-10": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Uttarashada", "yoga": "Dhruva", "paksha": "Krishna",
+    "sunrise": "7:10 AM", "sunset": "5:57 PM", "teluguMonth": "పుష్యమి"
+  },
+  "2026-01-14": {
+    "events": [{ "title": "Makara Sankranti", "category": "Sankranti", "icon": "🟠" }, { "title": "Uttarayan", "category": "Auspicious Day", "icon": "⭐" }],
+    "tithi": "Panchami", "nakshatra": "Uttarashada", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "7:08 AM", "sunset": "6:01 PM", "teluguMonth": "పుష్యమి"
+  },
+  "2026-01-21": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Pushya", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "7:06 AM", "sunset": "6:05 PM", "teluguMonth": "మాఘమి"
+  },
+  "2026-01-26": {
+    "events": [{ "title": "Republic Day", "category": "Public Holiday", "icon": "🇮🇳" }, { "title": "Ekadashi", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Chitra", "yoga": "Variyan", "paksha": "Krishna",
+    "sunrise": "7:03 AM", "sunset": "6:08 PM", "teluguMonth": "మాఘమి"
+  },
+
+  "2026-02-09": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Dhanishta", "yoga": "Siddha", "paksha": "Krishna",
+    "sunrise": "6:57 AM", "sunset": "6:15 PM", "teluguMonth": "మాఘమి"
+  },
+  "2026-02-11": {
+    "events": [{ "title": "Maha Shivaratri", "category": "Festival", "icon": "🔮" }, { "title": "Masik Shivaratri", "category": "Masik Shivaratri", "icon": "🕉️" }],
+    "tithi": "Chaturdashi", "nakshatra": "Shatabhisha", "yoga": "Siva", "paksha": "Krishna",
+    "sunrise": "6:56 AM", "sunset": "6:16 PM", "teluguMonth": "మాఘమి"
+  },
+  "2026-02-20": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Magha", "yoga": "Harshana", "paksha": "Shukla",
+    "sunrise": "6:50 AM", "sunset": "6:20 PM", "teluguMonth": "ఫాల్గుణి"
+  },
+  "2026-02-24": {
+    "events": [{ "title": "Ekadashi", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Uttaraphalguni", "yoga": "Brahma", "paksha": "Krishna",
+    "sunrise": "6:47 AM", "sunset": "6:22 PM", "teluguMonth": "ఫాల్గుణి"
+  },
+
+  "2026-03-11": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Uttarabhadra", "yoga": "Indra", "paksha": "Krishna",
+    "sunrise": "6:35 AM", "sunset": "6:28 PM", "teluguMonth": "ఫాల్గుణి"
+  },
+  "2026-03-18": {
+    "events": [{ "title": "Holi", "category": "Festival", "icon": "🎨" }, { "title": "Holika Dahan", "category": "Festival", "icon": "🔥" }],
+    "tithi": "Chaturdashi", "nakshatra": "Uttaraphalguni", "yoga": "Shiva", "paksha": "Shukla",
+    "sunrise": "6:28 AM", "sunset": "6:31 PM", "teluguMonth": "చైత్రమి"
+  },
+  "2026-03-19": {
+    "events": [{ "title": "Dhuleti / Holi", "category": "Public Holiday", "icon": "🌈" }, { "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Uttaraphalguni", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "6:28 AM", "sunset": "6:31 PM", "teluguMonth": "చైత్రమి"
+  },
+  "2026-03-30": {
+    "events": [{ "title": "Ekadashi", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Uttarashada", "yoga": "Vriddhi", "paksha": "Krishna",
+    "sunrise": "6:18 AM", "sunset": "6:35 PM", "teluguMonth": "చైత్రమి"
+  },
+
+  "2026-04-06": {
+    "events": [{ "title": "Ugadi / Telugu New Year", "category": "Telugu New Year", "icon": "🌺" }, { "title": "Chaitra Shukla Pratipada", "category": "Important Tithi", "icon": "⭐" }],
+    "tithi": "Pratipada", "nakshatra": "Ashwini", "yoga": "Vishkambha", "paksha": "Shukla",
+    "sunrise": "6:08 AM", "sunset": "6:38 PM", "teluguMonth": "చైత్రమి"
+  },
+  "2026-04-10": {
+    "events": [{ "title": "Sri Rama Navami", "category": "Festival", "icon": "🏹" }],
+    "tithi": "Navami", "nakshatra": "Pushya", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "6:04 AM", "sunset": "6:40 PM", "teluguMonth": "చైత్రమి"
+  },
+  "2026-04-13": {
+    "events": [{ "title": "Ekadashi", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Uttaraphalguni", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "6:02 AM", "sunset": "6:41 PM", "teluguMonth": "చైత్రమి"
+  },
+  "2026-04-14": {
+    "events": [{ "title": "Baisakhi / Tamil New Year", "category": "Festival", "icon": "🌾" }],
+    "tithi": "Dvadashi", "nakshatra": "Hasta", "yoga": "Indra", "paksha": "Shukla",
+    "sunrise": "6:01 AM", "sunset": "6:41 PM", "teluguMonth": "వైశాఖమి"
+  },
+  "2026-04-17": {
+    "events": [{ "title": "Good Friday", "category": "Public Holiday", "icon": "✝️" }],
+    "tithi": "Pournami", "nakshatra": "Chitra", "yoga": "Vaidhriti", "paksha": "Shukla",
+    "sunrise": "5:59 AM", "sunset": "6:42 PM", "teluguMonth": "వైశాఖమి"
+  },
+  "2026-04-19": {
+    "events": [{ "title": "Easter Sunday", "category": "Public Holiday", "icon": "🐣" }],
+    "tithi": "Dvitiya", "nakshatra": "Vishakha", "yoga": "Vishkambha", "paksha": "Krishna",
+    "sunrise": "5:57 AM", "sunset": "6:43 PM", "teluguMonth": "వైశాఖమి"
+  },
+  "2026-04-27": {
+    "events": [{ "title": "Hanuman Jayanthi", "category": "Festival", "icon": "🙏" }, { "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Vishakha", "yoga": "Variyan", "paksha": "Shukla",
+    "sunrise": "5:53 AM", "sunset": "6:46 PM", "teluguMonth": "వైశాఖమి"
+  },
+  "2026-04-22": {
+    "events": [],
+    "tithi": "Chaturthi", "nakshatra": "Hasta", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "5:56 AM", "sunset": "6:44 PM", "teluguMonth": "వైశాఖమి"
+  },
+
+  "2026-05-11": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Krittika", "yoga": "Vishkambha", "paksha": "Krishna",
+    "sunrise": "5:46 AM", "sunset": "6:50 PM", "teluguMonth": "వైశాఖమి"
+  },
+  "2026-05-16": {
+    "events": [{ "title": "Ekadashi", "category": "Ekadashi", "icon": "🔵" }, { "title": "Buddha Pournami", "category": "Festival", "icon": "☸️" }],
+    "tithi": "Ekadashi", "nakshatra": "Swati", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "5:43 AM", "sunset": "6:52 PM", "teluguMonth": "జ్యేష్ఠమి"
+  },
+  "2026-05-27": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Jyeshtha", "yoga": "Harshana", "paksha": "Shukla",
+    "sunrise": "5:39 AM", "sunset": "6:55 PM", "teluguMonth": "జ్యేష్ఠమి"
+  },
+
+  "2026-06-10": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Mrigashira", "yoga": "Indra", "paksha": "Krishna",
+    "sunrise": "5:38 AM", "sunset": "6:58 PM", "teluguMonth": "జ్యేష్ఠమి"
+  },
+  "2026-06-25": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Uttarashada", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "5:38 AM", "sunset": "6:59 PM", "teluguMonth": "ఆషాఢమి"
+  },
+
+  "2026-07-05": {
+    "events": [{ "title": "Guru Pournami", "category": "Pournami", "icon": "🌕" }, { "title": "Vyasa Puja", "category": "Festival", "icon": "📿" }],
+    "tithi": "Pournami", "nakshatra": "Uttarashada", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "5:40 AM", "sunset": "6:59 PM", "teluguMonth": "ఆషాఢమి"
+  },
+  "2026-07-09": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Ardra", "yoga": "Vriddhi", "paksha": "Krishna",
+    "sunrise": "5:41 AM", "sunset": "6:58 PM", "teluguMonth": "శ్రావణమి"
+  },
+  "2026-07-19": {
+    "events": [{ "title": "Ekadashi", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Uttarashada", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "5:44 AM", "sunset": "6:56 PM", "teluguMonth": "శ్రావణమి"
+  },
+
+  "2026-08-07": {
+    "events": [{ "title": "Varalakshmi Vratham", "category": "Festival", "icon": "🪔" }],
+    "tithi": "Trayodashi", "nakshatra": "Uttaraphalguni", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "5:53 AM", "sunset": "6:46 PM", "teluguMonth": "శ్రావణమి"
+  },
+  "2026-08-08": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Uttaraphalguni", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "5:53 AM", "sunset": "6:46 PM", "teluguMonth": "శ్రావణమి"
+  },
+  "2026-08-15": {
+    "events": [{ "title": "Independence Day", "category": "Public Holiday", "icon": "🇮🇳" }],
+    "tithi": "Saptami", "nakshatra": "Anuradha", "yoga": "Indra", "paksha": "Krishna",
+    "sunrise": "5:57 AM", "sunset": "6:41 PM", "teluguMonth": "భాద్రపదమి"
+  },
+  "2026-08-21": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Magha", "yoga": "Siddha", "paksha": "Krishna",
+    "sunrise": "6:00 AM", "sunset": "6:37 PM", "teluguMonth": "భాద్రపదమి"
+  },
+  "2026-08-24": {
+    "events": [{ "title": "Ekadashi (Parivartini)", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Chitra", "yoga": "Harshana", "paksha": "Shukla",
+    "sunrise": "6:02 AM", "sunset": "6:35 PM", "teluguMonth": "భాద్రపదమి"
+  },
+  "2026-08-26": {
+    "events": [{ "title": "Vinayaka Chavithi", "category": "Festival", "icon": "🐘" }],
+    "tithi": "Chaturthi", "nakshatra": "Hasta", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "6:03 AM", "sunset": "6:34 PM", "teluguMonth": "భాద్రపదమి"
+  },
+
+  "2026-09-06": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Uttarabhadra", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "6:08 AM", "sunset": "6:26 PM", "teluguMonth": "ఆశ్వయుజమి"
+  },
+  "2026-09-19": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Uttaraphalguni", "yoga": "Vriddhi", "paksha": "Krishna",
+    "sunrise": "6:15 AM", "sunset": "6:17 PM", "teluguMonth": "ఆశ్వయుజమి"
+  },
+  "2026-09-22": {
+    "events": [{ "title": "Ekadashi (Papaankusha)", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Anuradha", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "6:17 AM", "sunset": "6:14 PM", "teluguMonth": "ఆశ్వయుజమి"
+  },
+  "2026-09-25": {
+    "events": [{ "title": "Dasara / Vijayadasami", "category": "Festival", "icon": "🏆" }, { "title": "Navratri End", "category": "Festival", "icon": "🙏" }],
+    "tithi": "Dashami", "nakshatra": "Uttarashada", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "6:19 AM", "sunset": "6:12 PM", "teluguMonth": "ఆశ్వయుజమి"
+  },
+
+  "2026-10-05": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }, { "title": "Karthika Pournami Start", "category": "Important Tithi", "icon": "⭐" }],
+    "tithi": "Pournami", "nakshatra": "Ashwini", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "6:25 AM", "sunset": "6:05 PM", "teluguMonth": "కార్తీకమి"
+  },
+  "2026-10-17": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Chitra", "yoga": "Indra", "paksha": "Krishna",
+    "sunrise": "6:33 AM", "sunset": "5:57 PM", "teluguMonth": "కార్తీకమి"
+  },
+  "2026-10-20": {
+    "events": [{ "title": "Deepavali", "category": "Festival", "icon": "🪔" }, { "title": "Lakshmi Puja", "category": "Festival", "icon": "🌸" }],
+    "tithi": "Amavasya", "nakshatra": "Vishakha", "yoga": "Siddha", "paksha": "Krishna",
+    "sunrise": "6:35 AM", "sunset": "5:55 PM", "teluguMonth": "కార్తీకమి"
+  },
+  "2026-10-21": {
+    "events": [{ "title": "Govardhan Puja", "category": "Festival", "icon": "🐄" }],
+    "tithi": "Pratipada", "nakshatra": "Anuradha", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "6:36 AM", "sunset": "5:55 PM", "teluguMonth": "కార్తీకమి"
+  },
+  "2026-10-22": {
+    "events": [{ "title": "Bhai Dooj", "category": "Festival", "icon": "👫" }],
+    "tithi": "Dvitiya", "nakshatra": "Jyeshtha", "yoga": "Vriddhi", "paksha": "Shukla",
+    "sunrise": "6:36 AM", "sunset": "5:54 PM", "teluguMonth": "కార్తీకమి"
+  },
+
+  "2026-11-03": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }, { "title": "Karthika Pournami", "category": "Festival", "icon": "🪔" }],
+    "tithi": "Pournami", "nakshatra": "Krittika", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "6:45 AM", "sunset": "5:49 PM", "teluguMonth": "కార్తీకమి"
+  },
+  "2026-11-16": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Uttarashada", "yoga": "Indra", "paksha": "Krishna",
+    "sunrise": "6:55 AM", "sunset": "5:44 PM", "teluguMonth": "మార్గశీర్షమి"
+  },
+  "2026-11-22": {
+    "events": [{ "title": "Ekadashi (Utpanna)", "category": "Ekadashi", "icon": "🔵" }],
+    "tithi": "Ekadashi", "nakshatra": "Bharani", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "6:59 AM", "sunset": "5:42 PM", "teluguMonth": "మార్గశీర్షమి"
+  },
+
+  "2026-12-02": {
+    "events": [{ "title": "Pournami", "category": "Pournami", "icon": "🌕" }],
+    "tithi": "Pournami", "nakshatra": "Mrigashira", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "7:05 AM", "sunset": "5:41 PM", "teluguMonth": "మార్గశీర్షమి"
+  },
+  "2026-12-07": {
+    "events": [{ "title": "Vaikunta Ekadashi", "category": "Ekadashi", "icon": "🔵" }, { "title": "Mokshada Ekadashi", "category": "Fasting Day", "icon": "🕉️" }],
+    "tithi": "Ekadashi", "nakshatra": "Punarvasu", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "7:08 AM", "sunset": "5:41 PM", "teluguMonth": "పుష్యమి"
+  },
+  "2026-12-15": {
+    "events": [{ "title": "Amavasya", "category": "Amavasya", "icon": "🌑" }],
+    "tithi": "Amavasya", "nakshatra": "Uttarashada", "yoga": "Vriddhi", "paksha": "Krishna",
+    "sunrise": "7:11 AM", "sunset": "5:41 PM", "teluguMonth": "పుష్యమి"
+  },
+  "2026-12-25": {
+    "events": [{ "title": "Christmas", "category": "Public Holiday", "icon": "🎄" }],
+    "tithi": "Navami", "nakshatra": "Rohini", "yoga": "Siddha", "paksha": "Shukla",
+    "sunrise": "7:12 AM", "sunset": "5:45 PM", "teluguMonth": "పుష్యమి"
+  },
+  "2026-12-31": {
+    "events": [{ "title": "New Year's Eve", "category": "Important Tithi", "icon": "🎆" }],
+    "tithi": "Pournami", "nakshatra": "Pushya", "yoga": "Brahma", "paksha": "Shukla",
+    "sunrise": "7:11 AM", "sunset": "5:48 PM", "teluguMonth": "పుష్యమి"
+  }
+}

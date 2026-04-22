@@ -1,0 +1,65 @@
+// Telugu translations for all event titles, nakshatra, yoga, paksha
+export const EVENT_TITLES_TEL = {
+  "New Year's Day": "నూతన సంవత్సరం",
+  "Ekadashi": "ఏకాదశి",
+  "Amavasya": "అమావాస్య",
+  "Pournami": "పౌర్ణమి",
+  "Makara Sankranti": "మకర సంక్రాంతి",
+  "Uttarayan": "ఉత్తరాయణం",
+  "Republic Day": "గణతంత్ర దినం",
+  "Maha Shivaratri": "మహా శివరాత్రి",
+  "Masik Shivaratri": "మాసిక శివరాత్రి",
+  "Holi": "హోలీ",
+  "Holika Dahan": "హోళికా దహనం",
+  "Dhuleti / Holi": "ధులేటి / హోలీ",
+  "Ugadi / Telugu New Year": "ఉగాది / తెలుగు సంవత్సరాది",
+  "Chaitra Shukla Pratipada": "చైత్ర శుక్ల పాడ్యమి",
+  "Sri Rama Navami": "శ్రీ రామ నవమి",
+  "Baisakhi / Tamil New Year": "బైసాఖి / తమిళ నూతన సంవత్సరం",
+  "Good Friday": "గుడ్ ఫ్రైడే",
+  "Easter Sunday": "ఈస్టర్ ఆదివారం",
+  "Hanuman Jayanthi": "హనుమాన్ జయంతి",
+  "Buddha Pournami": "బుద్ధ పౌర్ణమి",
+  "Vyasa Puja": "వ్యాస పూజ",
+  "Guru Pournami": "గురు పౌర్ణమి",
+  "Varalakshmi Vratham": "వరలక్ష్మి వ్రతం",
+  "Independence Day": "స్వాతంత్ర్య దినోత్సవం",
+  "Vinayaka Chavithi": "వినాయక చవితి",
+  "Ekadashi (Parivartini)": "పరివర్తిని ఏకాదశి",
+  "Ekadashi (Papaankusha)": "పాపాంకుశ ఏకాదశి",
+  "Dasara / Vijayadasami": "దసరా / విజయదశమి",
+  "Navratri End": "నవరాత్రి సమాప్తి",
+  "Karthika Pournami Start": "కార్తీక పౌర్ణమి ప్రారంభం",
+  "Deepavali": "దీపావళి",
+  "Lakshmi Puja": "లక్ష్మీ పూజ",
+  "Govardhan Puja": "గోవర్ధన పూజ",
+  "Bhai Dooj": "భాయి దూజ్",
+  "Karthika Pournami": "కార్తీక పౌర్ణమి",
+  "Ekadashi (Utpanna)": "ఉత్పన్న ఏకాదశి",
+  "Vaikunta Ekadashi": "వైకుంఠ ఏకాదశి",
+  "Mokshada Ekadashi": "మోక్షద ఏకాదశి",
+  "Christmas": "క్రిస్మస్",
+  "New Year's Eve": "నూతన సంవత్సర సంధ్య",
+};
+
+export const NAKSHATRA_TEL = {
+  "Rohini": "రోహిణి", "Anuradha": "అనూరాధ", "Uttarashada": "ఉత్తరాషాడ",
+  "Pushya": "పుష్య", "Chitra": "చిత్ర", "Dhanishta": "ధనిష్ఠ",
+  "Shatabhisha": "శతభిష", "Magha": "మఘ", "Uttaraphalguni": "ఉత్తరఫల్గుణి",
+  "Uttarabhadra": "ఉత్తరభాద్ర", "Ashwini": "అశ్విని", "Hasta": "హస్త",
+  "Vishakha": "విశాఖ", "Mrigashira": "మృగశిర", "Ardra": "ఆర్ద్ర",
+  "Swati": "స్వాతి", "Jyeshtha": "జ్యేష్ఠ", "Bharani": "భరణి",
+  "Krittika": "కృత్తిక", "Punarvasu": "పునర్వసు",
+};
+
+export const YOGA_TEL = {
+  "Siddha": "సిద్ధ", "Vriddhi": "వృద్ధి", "Dhruva": "ధ్రువ",
+  "Brahma": "బ్రహ్మ", "Variyan": "వారీయన్", "Harshana": "హర్షణ",
+  "Indra": "ఇంద్ర", "Shiva": "శివ", "Vishkambha": "విష్కంభ",
+  "Vaidhriti": "వైధృతి", "Siva": "శివ",
+};
+
+export const PAKSHA_TEL = {
+  "Shukla": "శుక్ల పక్షం",
+  "Krishna": "కృష్ణ పక్షం",
+};

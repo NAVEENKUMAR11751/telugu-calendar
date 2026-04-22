@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Ramabhadra&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-saffron: #FF9933;
+  --color-maroon: #800000;
+  --color-gold: #FFD700;
+  --color-deepblue: #0A192F;
+  --color-lightbg: #FDFBF7;
+  --color-darkbg: #0B1120;
+  
+  --font-sans: "Outfit", system-ui, sans-serif;
+  --font-telugu: "Ramabhadra", system-ui, sans-serif;
+}
+
+@layer base {
+  :root {
+    --bg-primary: var(--color-lightbg);
+    --bg-card: rgba(255, 255, 255, 0.7);
+    --text-primary: #1F2937;
+    --text-secondary: #4B5563;
+    --border-color: #E5E7EB;
+  }
+  
+  .dark {
+    --bg-primary: var(--color-darkbg);
+    --bg-card: rgba(30, 41, 59, 0.7);
+    --text-primary: #F9FAFB;
+    --text-secondary: #9CA3AF;
+    --border-color: #374151;
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    transition: background-color 0.3s, color 0.3s;
+    font-family: var(--font-sans);
+    /* Subtle temple-inspired background pattern */
+    background-image: radial-gradient(var(--border-color) 1px, transparent 1px);
+    background-size: 24px 24px;
+    background-attachment: fixed;
+  }
+}
+
+.glass {
+  background: var(--bg-card);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.dark .glass {
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
